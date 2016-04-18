@@ -1,7 +1,7 @@
 name: Binar Music
 favicon: null
-layout_spectrum: 0.20201341761276126
-typography_spectrum: 0.326168468920514
+layout_spectrum: 0.94975
+typography_spectrum: 0.61395
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6593755290377885
+    - '#000000'
+    - '#5c3e04'
+    - '#868621'
+    - '#e8ea6c'
+    - '#840c0a'
+  brandStrength: 0.125
   lightness: 0.4008848743978888
-  saturation: 0.028077725786715746
-  rhythmicContrast: 0.32367002172395587
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
