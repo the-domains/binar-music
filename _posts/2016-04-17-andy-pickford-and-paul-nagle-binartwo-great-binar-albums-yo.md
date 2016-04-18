@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Andy Pickford & Paul Nagle - Binar. Two great Binar albums you can get over at Bandcamp! Mushroom Vimana adapted from the 2015 live Awakenings gig and Another Day in La-La-Land, a semi-studio album adapted from 2006 archive sessions. Spindragons is also available on iTunes, Amazon etc.'
-datePublished: '2016-04-18T13:31:37.488Z'
-dateModified: '2016-04-18T13:27:46.443Z'
+datePublished: '2016-04-18T13:35:34.547Z'
+dateModified: '2016-04-18T13:33:46.334Z'
 title: ''
 author:
   - name: ''
@@ -40,6 +40,10 @@ Go check these babies out too...
 
 **[Spindragons][3]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b9956cde938066f3d27d719206aebdca2252ebe.jpg)
+
+**_About Another Day in La-La Land_**
+
+**__**
 
 [0]: https://andypickford1.bandcamp.com/album/another-day-in-la-la-land-16bit
 [1]: https://andypickford1.bandcamp.com/album/another-day-in-la-la-land-24bit
