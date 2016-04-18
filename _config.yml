@@ -1,0 +1,28 @@
+name: Binar Music
+favicon: null
+layout_spectrum: 0.20201341761276126
+typography_spectrum: 0.326168468920514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6593755290377885
+  lightness: 0.4008848743978888
+  saturation: 0.028077725786715746
+  rhythmicContrast: 0.32367002172395587
+purpose: []
