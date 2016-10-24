@@ -1,28 +1,35 @@
-name: Binar Music
-favicon: null
-layout_spectrum: 0.49701
-typography_spectrum: 0.61395
-cta:
-  domain: null
-  bucket: null
-  version: null
+typography_spectrum: 0.518255760644166
+color:
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+  brandStrength: 0.09049990514237986
+  lightness: 0.10540528366213094
+  saturation: 0.10738274690575235
+  rhythmicContrast: 0.1159678581944381
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acb71ca-e996-4a02-b21c-319dc9ce1d1a.jpg
+  type: null
+  appId: null
+layout_spectrum: 0.13164341607758093
 analytics:
   google: null
   facebook: null
   twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#5c3e04'
-    - '#868621'
-    - '#e8ea6c'
-    - '#840c0a'
-  brandStrength: 0.125
-  lightness: 0.4008848743978888
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d718b59-63b7-4003-9781-fb112a88ac1e.png
+name: Binar Music
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Binar
+content: []
+description: ''
 purpose: []
